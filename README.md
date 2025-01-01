@@ -2,7 +2,9 @@
 > January 1st, 2025
 ---
 
-I will be documenting how to read files using the Linux API. I will go through the steps I used to help me code this project.
+This project shows how to read files using the LinuxAPI (for now). 
+
+In the future, I will be adding more code and examples here as a reference guide for me. 
 
 # Resources
 > https://man7.org/linux/man-pages/
