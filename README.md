@@ -1,10 +1,10 @@
-# Reading Files
+# LinuxAPI-POSIX-Examples
 > January 1st, 2025
 ---
 
-This project shows how to read files using the LinuxAPI (for now). 
+This repository will showcase how to use the LinuxAPI/POSIX. I hope to spread knowledge around this topic, and I hope that everyone benefits from my work.
 
-In the future, I will be adding more code and examples here as a reference guide for me. 
+In the future, I will be adding more code and examples here as a reference guide for me and others to use. 
 
 # Resources
 > https://man7.org/linux/man-pages/
